@@ -1,0 +1,9 @@
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csprojAssemblyReference.cache
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.cache
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+C:\Users\SABRE\source\repos\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
